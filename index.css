@@ -1,0 +1,12 @@
+.banner {
+  color: azure;
+  margin-top: auto;
+  padding: 10px;
+  margin: 0 auto;
+  p {
+    width: 100%;
+  }
+}
+* {
+  background-color: cadetblue;
+}
